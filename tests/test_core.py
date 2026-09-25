@@ -1,6 +1,6 @@
 import pytest
 
-from ml_template.core import normalize
+from app.core import normalize
 
 
 def test_range() -> None:

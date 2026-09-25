@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from ml-template!")
+    print("Hello from project-template!")
